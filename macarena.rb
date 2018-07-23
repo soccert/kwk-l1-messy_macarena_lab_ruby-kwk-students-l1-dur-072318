@@ -18,13 +18,13 @@ puts "Step 3: Turn your right palm up."
 puts "Step 4: Turn your left palm up."
 
 # Step 5: FIXME
-puts "Step 5:place your right hand on your left shoulder."
+puts "Step 5:Place your right hand on your left shoulder."
 
 # Step 6: FIXME
-puts "Step 6: place your left hand on your right shoulder."
+puts "Step 6: Place your left hand on your right shoulder."
 
 # Step 7: FIXME
-puts "Step 7: bring your right hand up and around to the back of your head."
+puts "Step 7: Bring your right hand up and around to the back of your head."
 
 # Step 8: FIXME
-puts "Step 8: bring your left hand up and around to the back of your head."
+puts "Step 8: Bring your left hand up and around to the back of your head."
